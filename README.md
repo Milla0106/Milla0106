@@ -18,9 +18,9 @@ Sou Kamilla, estou cursando informática no IFMA - campus de Açailãndia, eu go
 
 ## Idiomas
 
--- 🌎 LIBRAS / c2
---  Português Brasileiro / c2
--- Espanhol / c1
--- 🌏 LSE / c1
--- Inglês / b1
--- 🌏 ASL / b1
+- 🌎 LIBRAS / c2
+-  Português Brasileiro / c2
+- Espanhol / c1
+- 🌏 LSE / c1
+- Inglês / b1
+- 🌏 ASL / b1
